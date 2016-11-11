@@ -11,7 +11,8 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        // coloque aqui o código
+        // coloque aqui o código 
+        Echo "teste";
         ?>
     </body>
 </html>
